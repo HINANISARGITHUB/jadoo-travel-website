@@ -926,9 +926,10 @@ a {
         text-align: center;
     }
 
-  .content h5 {
-    margin-left: 1rem;
-  }
+    .content h5 {
+        margin-left: 0rem;
+    }
+
     .dots {
         justify-content: center;
         margin-top: 10px;
